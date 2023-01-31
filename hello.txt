@@ -7,4 +7,4 @@ hello Git! I am dsz!
 hello Git! I am dsz!
 hello Git! I am dsz!
 hello Git! I am dsz!
-hello Git! I am dsz!
+hello Git! I am dsz!合并冲突-master
