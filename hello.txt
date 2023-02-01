@@ -8,3 +8,4 @@ hello Git! I am dsz!
 hello Git! I am dsz!
 hello Git! I am dsz!合并冲突-master
 hello Git! I am dsz!合并冲突-hot-fix
+我在github上直接修改了此文件
