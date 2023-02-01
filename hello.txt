@@ -11,3 +11,4 @@ hello Git! I am dsz!合并冲突-hot-fix
 我在github上直接修改了此文件
 做了修改22222222222222222222 by lhc
 我又修改了一次，上一个直接push成功了 by lhc
+这次删除了windows凭据，再来试一次 by lhc
